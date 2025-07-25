@@ -1,0 +1,22 @@
+# Node &  python (in case i ever use it)
+node_modules/
+venv/
+# Python bytecode
+__pycache__/
+# macOS and windows
+.DS_Store
+Thumbs.db
+# VS code workspace settings
+.vscode/
+*.code-workspace
+# Logs
+*.log
+*.tmp
+*.bak
+# Environment variables
+.env
+#system files
+desktop.ini
+
+#Git ignore itself
+.gitignore
