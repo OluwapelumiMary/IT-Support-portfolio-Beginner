@@ -1,7 +1,7 @@
 # 💻 IT Support Specialist Portfolio – Beginner Journey
 
 **Google IT Support Professional Certificate – Course 1: Technical Support Fundamentals**
-**By Oluwapelumi Adegbesan**
+**By Oluwapelumi Adegbesan(Mary)**
 
 ## 🚀 Overview
 
