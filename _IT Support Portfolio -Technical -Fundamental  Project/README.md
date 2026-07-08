@@ -1,30 +1,70 @@
 # 💻 IT Support Specialist Portfolio – Beginner Journey
-### 📚 Course 1: Technical Support Fundamentals (Google IT Support Certificate) by Oluwapelumi Adegbesan
-## 🚀 Project Pitch
- This is my first hands-on technical foundations in IT Support. Built through self-paced learning and real-world simulation, I was able to blend critical thinking with tech knowledge to solve real problems, creating impact through constant practice and reflection. I've begun to confidently navigate the core responsibilities of an entry-level IT professional.
 
-## 📚 Study Summary
-I completed all five modules of the Google IT Support Certificate:
-1. **Module 1** – IT Support
-2. **Module 2** – Hardware & other Devices
-3. **Module 3** – Operating Systems
-4. **Module 4** – Networking & Internet
-5. **Module 5** – Software Management
-6. **Module 6** – Troubleshooting & Entry-level Tech Skills
+**Google IT Support Professional Certificate – Course 1: Technical Support Fundamentals**
+**By Oluwapelumi Adegbesan**
 
-Each module includes a unique scenario, infographic, or explainer slide created on Canva. These materials are included below, with a summary of tools, lessons learned, and real-life application.
+## 🚀 Overview
+
+This repository documents my journey through the first course of the Google IT Support Professional Certificate. It combines course concepts with practical exercises, troubleshooting scenarios, and visual learning materials that demonstrate my growing understanding of IT support.
+
+Rather than simply completing a course, my goal is to apply what I learn through hands-on practice and build a portfolio that reflects my progress towards becoming an IT professional.
 
 ---
-## 🧠 Key Skills Demonstrated
-- Problem-solving and scenario-based learning  
-- Hardware & OS support  
-- Clear written communication for user support  
-- Documenting troubleshooting steps  
-- Practical thinking as an IT professional
 
-## 🚀 What’s Next?
-This is the first project in a full 6-course Google IT Support Certificate series.  
-Subsequent courses will be added to this portfolio as individual folders with their own modules and problem-scenarios.
+## 📚 What I Covered
+
+Throughout this course, I explored the foundations of IT support, including:
+
+* IT support fundamentals
+* Computer hardware and devices
+* Operating systems
+* Networking and the Internet
+* Software management
+* Troubleshooting techniques
+
+Each topic includes notes, practical scenarios, and Canva visuals that helped reinforce key concepts.
+
+---
+
+## 🛠️ Skills Demonstrated
+
+* Technical troubleshooting
+* Hardware and operating system fundamentals
+* Basic networking concepts
+* Problem-solving and analytical thinking
+* Technical documentation
+* User-focused communication
+
+---
+
+## 📂 Portfolio Roadmap
+
+This repository is the first stage of my IT Support portfolio.
+
+As I complete the remaining courses in the Google IT Support Professional Certificate, each will be published as its own repository with projects, notes, and practical scenarios.
+
+**Portfolio Progress**
+
+* ✅ Course 1 – Technical Support Fundamentals *(Current Repository)*
+* ⏳ Course 2 – The Bits and Bytes of Computer Networking
+* ⏳ Course 3 – Operating Systems and You
+* ⏳ Course 4 – System Administration and IT Infrastructure Services
+* ⏳ Course 5 – IT Security: Defence Against the Digital Dark Arts
+
+You can also explore my other learning repositories:
+
+* 🌐 Networking Fundamentals
+* 🐍 Python Projects
+* 🌍 Web Development Projects
+* 📁 GitHub Portfolio
+
+---
+
+## 🌱 Learning Philosophy
+
+I believe the best way to learn technology is by building, documenting, and reflecting on what I've learned. This portfolio captures not only my progress but also the practical skills I'm developing as I work towards a career in IT.
+
+Thank you for visiting my repository. Feedback and suggestions are always welcome.
 
 ---
 
